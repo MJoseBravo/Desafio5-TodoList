@@ -1,0 +1,47 @@
+
+.todolist {
+    margin: 30px;
+    padding: 20px 30px;
+    border: solid 1px black;
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.todolist h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: solid 1px lightgray;
+}
+
+input {
+    width: 80%;
+}
+
+button {
+    background: rgb(53, 110, 53);
+    color: aliceblue;
+}
+
+.informaciones {
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+table {
+    margin-top: 20px;
+    border: solid 1px gray;
+    padding: 10px 30px;
+}
+
+.resumentareas {
+    margin-top: 20px;
+    border: solid 1px gray;
+    padding: 10px 30px;
+   
+}
+
+.completa {
+    text-decoration: line-through;
+}
